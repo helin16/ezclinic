@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:/Documents and Settings/lhe.BYTECRAFT/git/ezclinic/Core/Framework/Symfony/app/config/routing_dev.yml'

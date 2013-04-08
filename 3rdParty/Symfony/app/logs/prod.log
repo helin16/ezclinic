@@ -1,0 +1,1 @@
+[2013-04-08 04:16:02] request.ERROR: Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at C:\Documents and Settings\lhe.BYTECRAFT\git\ezclinic\Core\Framework\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\RouterListener.php line 94 [] []
